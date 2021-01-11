@@ -46,7 +46,7 @@
         "description": "The CentOS version for the VM. This will pick a fully patched image of this given CentOS version."
       }
     },
-    "numDataDisks": {
+    "numDataDisks_jithin": {
       "type": "int",
       "defaultValue": 1,
       "allowedValues": [
